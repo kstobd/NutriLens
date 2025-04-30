@@ -5,11 +5,18 @@
 
 ## Скриншоты 
 
-### Главное меню
-![telegram-cloud-photo-size-2-5229022700792573672-y](https://github.com/user-attachments/assets/d2711b82-c6b8-4cef-abac-3d0fb0c18c59)
+## Скриншоты 
 
-### История
-![telegram-cloud-photo-size-2-5229022700792573671-y](https://github.com/user-attachments/assets/0873eeec-ca71-4236-8207-e79fef8e1915)
+<div style="display: flex; gap: 20px;">
+    <div style="flex: 1;">
+        <h3>Главное меню</h3>
+        <img src="https://github.com/user-attachments/assets/d2711b82-c6b8-4cef-abac-3d0fb0c18c59" width="100%" alt="Главное меню приложения">
+    </div>
+    <div style="flex: 1;">
+        <h3>История</h3>
+        <img src="https://github.com/user-attachments/assets/0873eeec-ca71-4236-8207-e79fef8e1915" width="100%" alt="Экран истории">
+    </div>
+</div>
 
 
 ## Настройка API-ключа
