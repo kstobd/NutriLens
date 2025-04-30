@@ -5,19 +5,9 @@
 
 ## Скриншоты 
 
-## Скриншоты 
-
-<div style="display: flex; gap: 20px;">
-    <div style="flex: 1;">
-        <h3>Главное меню</h3>
-        <img src="https://github.com/user-attachments/assets/d2711b82-c6b8-4cef-abac-3d0fb0c18c59" width="100%" alt="Главное меню приложения">
-    </div>
-    <div style="flex: 1;">
-        <h3>История</h3>
-        <img src="https://github.com/user-attachments/assets/0873eeec-ca71-4236-8207-e79fef8e1915" width="100%" alt="Экран истории">
-    </div>
-</div>
-
+| Главное меню | История |
+|--------------|---------|
+| ![Главное меню приложения](https://github.com/user-attachments/assets/d2711b82-c6b8-4cef-abac-3d0fb0c18c59) | ![Экран истории](https://github.com/user-attachments/assets/0873eeec-ca71-4236-8207-e79fef8e1915) |
 
 ## Настройка API-ключа
 
