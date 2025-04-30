@@ -1,4 +1,4 @@
-package com.example.theenergyvalue
+package com.example.NutriLens
 
 /**
  * A sealed hierarchy describing the state of the text generation.

@@ -1,4 +1,4 @@
-package com.example.theenergyvalue
+package com.example.NutriLens
 
 /**
  * Модель данных для информации о КБЖУ продукта

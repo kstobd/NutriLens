@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.theenergyvalue"
+    namespace = "com.example.NutriLens"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.theenergyvalue"
+        applicationId = "com.example.NutriLens"
         minSdk = 30
         targetSdk = 35
         versionCode = 1

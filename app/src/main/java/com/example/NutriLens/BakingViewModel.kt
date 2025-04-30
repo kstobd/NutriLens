@@ -1,4 +1,4 @@
-package com.example.theenergyvalue
+package com.example.NutriLens
 
 import android.app.Application
 import android.graphics.Bitmap

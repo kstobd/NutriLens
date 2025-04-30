@@ -1,4 +1,4 @@
-package com.example.theenergyvalue
+package com.example.NutriLens
 
 import android.content.Context
 import androidx.room.Database

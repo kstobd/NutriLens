@@ -1,4 +1,4 @@
-package com.example.theenergyvalue
+package com.example.NutriLens
 
 import androidx.room.Dao
 import androidx.room.Delete

@@ -1,4 +1,4 @@
-package com.example.theenergyvalue.ui.theme
+package com.example.NutriLens.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
