@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NutriLens</string>
+    <string name="action_calculate">Рассчитать КБЖУ</string>
+    <string name="baking_title">Расчет КБЖУ по фото</string>
+    <string name="upload_image">Загрузить изображение</string>
+    <string name="results_placeholder">(Результаты появятся здесь)</string>
+    <string name="image_description">Изображение блюда</string>
+    
+    <!-- Строки для функциональности истории -->
+    <string name="history_button">История</string>
+    <string name="history_screen_title">История запросов</string>
+    <string name="history_empty">История запросов пуста</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="delete_item">Удалить запись</string>
+    <string name="back">Назад</string>
+</resources>
